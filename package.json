@@ -1,0 +1,27 @@
+{
+  "name": "timer-start",
+  "version": "1.0.0",
+  "description": "timer with start pause stop resume seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abpai/timer-start.git"
+  },
+  "keywords": [
+    "timer",
+    "start",
+    "stop",
+    "resume",
+    "seconds",
+    "pause"
+  ],
+  "author": "Andy Pai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abpai/timer-start/issues"
+  },
+  "homepage": "https://github.com/abpai/timer-start"
+}
